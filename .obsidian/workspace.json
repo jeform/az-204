@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "b7739e50f7d6179b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5590cf67b6114913",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d4a442a6285e8c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Azure App Service.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d574966c6c0d322d",
+    "type": "split",
+    "children": [
+      {
+        "id": "56e2448505ac8ecb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "175ebf90e7dbd3a9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b137e3518dc3ce19",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "99712be3fa2aa0b3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "08b30a52a406b3df",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e3de5342cc6a4acf",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ad377a041cb1a51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9d30b38b34d5013",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Azure App Service.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2897300d30680dd8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Azure App Service.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8f47d65feece49e4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "66f63126c659906b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Azure App Service.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Abrir importador Markdown": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "8d4a442a6285e8c5",
+  "lastOpenFiles": [
+    "AZ-204.md",
+    "Azure App Service.md",
+    "Spaces/Home/Home.md",
+    "Excalidraw/Drawing 2024-03-22 14.31.27.excalidraw.md",
+    "Sem título 1",
+    "Sem título",
+    "Sem título.canvas",
+    "Excalidraw",
+    "Sem título.md",
+    "Spaces/Home",
+    "Spaces"
+  ]
+}
